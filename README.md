@@ -69,7 +69,7 @@ interface IJson {
 ![json展示](./assets/site2.png)
 
 x，y表示到viewport的距离，width和height就是区块的渲染长宽，之后四个radius你们应该看得懂，
-fills并不绝对，上述interface中写出的表示border的填充，对应```border: 1px solid #fff``
+fills并不绝对，上述interface中写出的表示border的填充，对应```border: 1px solid #fff```
 这种类型的写法，以上写法并不绝对，同时interface也不全。
 
 
